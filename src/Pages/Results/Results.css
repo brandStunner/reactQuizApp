@@ -1,0 +1,14 @@
+.results {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+    color: Red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.quiz-title-2{
+    text-transform: capitalize;
+    cursor: pointer;
+    height: 8vh;
+}

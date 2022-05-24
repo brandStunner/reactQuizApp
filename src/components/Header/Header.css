@@ -1,0 +1,31 @@
+
+.quiz-header{
+    display: flex;
+    flex-direction: column;
+    font-size: 8vw;
+    font-family: 'Segoe UI',serif;
+    
+    text-align: center;
+    text-transform: uppercase;
+   
+    
+    /* text-decoration: none; */
+}
+.quiz-title{
+    /* width: 80%; */
+    font-weight: 700;
+    color: rgb(200, 38, 32);
+    padding: .8em;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium',  sans-serif;
+    margin-top: 1em;
+    border: 5px solid black; 
+    border-image: linear-gradient(90deg, rgb(67, 12, 217), rgb(234, 157, 14), rgb(154, 25, 115)) 1;
+    
+}
+.divider{
+   margin: .8em 0;
+   background-color: grey;
+    width: 100%;
+}
+
